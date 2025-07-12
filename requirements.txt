@@ -1,0 +1,11 @@
+pandas
+numpy
+pdfplumber
+sentence-transformers
+faiss-cpu
+langchain
+gradio
+PyMuPDF
+openpyxl
+matplotlib
+python-dateutil
